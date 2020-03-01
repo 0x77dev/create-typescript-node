@@ -1,6 +1,6 @@
 {
   "name": "create-typescript-node",
-  "description": "$ yarn create ts-node <project-name>",
+  "description": "$ yarn create typescript-node <project-name>",
   "version": "0.0.1",
   "author": "Misha Marinenko @0x77dev",
   "bin": {
